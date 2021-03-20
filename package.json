@@ -1,0 +1,11 @@
+{
+  "name": "find-all",
+  "version": "1.0.0",
+  "description": "Utility function that accepts a search value and an array and returns an array of results that coercively match with search value with coercive comparison corner cases covered.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Sarder",
+  "license": "ISC"
+}
